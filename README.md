@@ -1,1 +1,1 @@
-# Next-js-docker-hot-realod
+docker-compose up -d --build
